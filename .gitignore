@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+venv/
+__pycache__/
+*.pyc
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables (set these in Render/Vercel dashboards instead)
+.env
+.env.local
+.env*.local
+
+# Database (don't commit your local data; each environment gets its own fresh db)
+*.db
+
+# OS/editor noise
+.DS_Store
+*.log

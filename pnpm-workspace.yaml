@@ -1,0 +1,8 @@
+packages:
+  - .
+
+onlyBuiltDependencies: []
+
+allowBuilds:
+  msw: true
+  sharp: true
